@@ -1,3 +1,6 @@
+# Renamed file for easier typing
+# Program assumes txt file in same folder as .py
+
 john_infile = open("John.txt", "r")
 
 search = ["Father", "God", "Christ", "Spirit", "spirit", "life", "man"]
